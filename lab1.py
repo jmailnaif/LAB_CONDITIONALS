@@ -7,3 +7,4 @@ elif BML <=45 :
     print ("you are fit &healthy")
 elif BML <40 :
     print("you are underweght. watch your health")
+    #0
